@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>_7qv.dev</groupId>
+    <artifactId>HubCore</artifactId>
+    <version>1.0.0</version>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.20</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.spigot</groupId>
+            <artifactId>Spigot</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/spigot.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>com.viaversion</groupId>
+            <artifactId>viaversion-api</artifactId>
+            <version>4.1.2-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>placeholder</groupId>
+            <artifactId>Placeholder</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/PlaceholderAPI.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>org.spigotmc</groupId>
+            <artifactId>spigot-api</artifactId>
+            <version>1.8.9-R0.1-SNAPSHOT</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/Spigot1.8.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>net.lunarclient</groupId>
+            <artifactId>LunarClient</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/LunarAPI.jar</systemPath>
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.portal</groupId>
+            <artifactId>portal</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/Queue.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>aqua</groupId>
+            <artifactId>aqua</artifactId>
+            <version>LATEST</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/AquaCoreAPI.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>me.signatured.ezqueuespigot</groupId>
+            <artifactId>EzqueueSpigot</artifactId>
+            <version>1.6.5</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/EzQueueSpigot.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>net.milkbowl.vault</groupId>
+            <artifactId>Vault</artifactId>
+            <version>1.2.27</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/Vault.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>net.luckperms</groupId>
+            <artifactId>api</artifactId>
+            <version>5.0</version>
+            <scope>provided</scope>
+        </dependency>
+
+    </dependencies>
+
+</project>

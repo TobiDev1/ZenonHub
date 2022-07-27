@@ -1,0 +1,43 @@
+MENU:
+  COSMETICS:
+    DISPLAYNAME: "&2Cosmetics Menu"
+    TITLE: "&2Cosmetics Menu"
+    STORE: "&cPurchase it at store.burning.dev"
+  ITEMS:
+    ARMORS:
+      LORE:
+        - "&7Change your outfit"
+        - ""
+        - "&aClick to view outfits"
+      FOOTER:
+        - "&7Change your outfit"
+        - ""
+        - "&aClick to view outfits"
+        - "&cPurchase at store.burning.dev"
+
+      TAGS:
+        COMMAND: "tags"
+        LORE:
+          - "&7Change your tag"
+          - ""
+          - "&aClick to view tags"
+        FOOTER:
+          - "&7Change your tag"
+          - ""
+          - "&aClick to view tags"
+          - "&cPurchase at store.burning.dev"
+
+      PARTICLES:
+        LORE:
+          - "&7Change your particles"
+          - ""
+          - "&aClick to view particles"
+        FOOTER:
+          - "&7Change your particles"
+          - ""
+          - "&aClick to view particles"
+          - "&cPurchase at store.burning.dev"
+      OUTFITS:
+        STORE: "&cYou do not have any Outfit available, buy them at store.burning.dev"
+
+

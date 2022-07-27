@@ -1,0 +1,8 @@
+QUEUES:
+  SERVER1:
+    BUNGEE-NAME: "server1"
+
+QUEUE-DELAY: 5 # How many seconds in between filtering the players into the desired server.
+
+QUEUE-MESSAGE:
+  DELAY: 15 # seconds

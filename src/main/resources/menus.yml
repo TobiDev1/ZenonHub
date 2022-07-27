@@ -1,0 +1,43 @@
+MENUS:
+  SELECTOR:
+    DISPLAYNAME: "&2Server Selector"
+    TITLE: "&2Server Selector"
+    SERVERS:
+      1:
+        TITLE: "&2&lHCF"
+        COMMAND: "joinqueue hcf"
+      2:
+        TITLE: "&2&lKits"
+        COMMAND: "joinqueue kits"
+      3:
+        TITLE: "&2&lPractice"
+        COMMAND: "joinqueue practice"
+      4:
+        TITLE: "&2&lSoupHCF"
+        COMMAND: "joinqueue souphcf"
+      5:
+        TITLE: "Build"
+        COMMAND: "joinqueue build"
+      INFORMATION:
+        TITLE: "&2&lServer Information"
+      LORES:
+        1:
+          - "&f&m-------------------------------"
+          - "&7&oright click to join hcf queue"
+          - "&f&m-------------------------------"
+        2:
+          - "&f&m-------------------------------"
+          - "&7&oright click to join kits queue"
+          - "&f&m-------------------------------"
+        3:
+          - "&f&m-------------------------------"
+          - "&7&oright click to join practice queue"
+          - "&f&m-------------------------------"
+        4:
+          - "&f&m-------------------------------"
+          - "&7&oright click to join souphcf queue"
+          - "&f&m-------------------------------"
+        5:
+          - "&f&m-------------------------------"
+          - "&7&oright click to join build queue"
+          - "&f&m-------------------------------"

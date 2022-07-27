@@ -1,0 +1,25 @@
+# QUEUE-SYSTEM Options: EZQUEUE, CUSTOM, PORTAL.
+
+QUEUE-SYSTEM: ""
+BUNGEECORD: false
+
+#           TIPS SECTION           #
+
+TIPS:
+  ENABLED: true
+  SEND-EVERY: 60
+  MESSAGES:
+    - "{0}&7[&3TIP&7] &bThis is tip number &31&b.{0}&7 "
+    - "{0}&7[&3TIP&7] &bThis is tip number &32&b.{0}&7 "
+    - "{0}&7[&3TIP&7] &bThis is tip number &33&b.{0}&7 "
+
+#           BOOLEANS SECTION           #
+
+BOOLEANS:
+  JOIN-MESSAGE:
+    ENABLE: true
+
+#           CHAT SECTION           #
+
+CHAT-FORMAT:
+  - "%lunarclient%%rank%%player%&7: &f%message%"

@@ -1,0 +1,14 @@
+name: zHub
+main: _7qv.dev.hub.Hub
+version: 1.2.0
+
+commands:
+  build:
+  hide:
+  spawn:
+  setspawn:
+  author:
+  pausequeue:
+  joinqueue:
+    aliases: ["play"]
+  leavequeue:

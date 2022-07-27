@@ -1,0 +1,13 @@
+HOTBAR:
+  SELECTOR:
+    NAME: "&aServer Selector"
+    MATERIAL: WATCH
+    SLOT: 4
+  ENDERBUTT:
+    NAME: "&aEnderButt"
+    MATERIAL: ENDER_PEARL
+    SLOT: 0
+  COSMETIC:
+    NAME: "&aCosmetic"
+    MATERIAL: ENDER_CHEST
+    SLOT: 8

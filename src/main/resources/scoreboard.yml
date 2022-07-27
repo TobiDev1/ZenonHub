@@ -1,0 +1,18 @@
+SCOREBOARD:
+  TITLE: "&4ZenonHub"
+  LINES:
+      - "&7&m--------------------"
+      - "&4&lOnline Players"
+      - "&4\u27A5 &fNetwork: %bungee_total%"
+      - ""
+      - "&4&lYou Information"
+      - "&4\u27A5 &fName&7: &c<player>"
+      - "&4\u27A5 &fRank&7: &c<rank>"
+      - ""
+      - "&4&lModalities"
+      - "&4\u27A5 &fHCFaction&7: &r%bungee_hcf%/200"
+      - "&4\u27A5 &fKitMap&7: &r%bungee_kits%/200"
+      - "&4\u27A5 &fHCF-Hard&7: &r%bungee_hardcore%/200"
+      - ""
+      - "&7burning.dev"
+      - "&7&m--------------------"

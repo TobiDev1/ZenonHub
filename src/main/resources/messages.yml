@@ -1,0 +1,27 @@
+JOIN-MESSAGE:
+   - "&7&m----------------------------------------"
+   - "&cWelcome to &4&lZenon Network"
+   - ""
+   - "&a\u2022 &cTwitter&7: &ftwitter.com/BurningDev"
+   - "&a\u2022 &cTeamspeak&7: &fts.burning.dev"
+   - "&a\u2022 &cWebsite&7: &fwww.burning.dev"
+   - "&a\u2022 &cStore&7: &fstore.burning.dev"
+   - "&a\u2022 &cDiscord&7: &finvite.gg/BurningDev"
+   - ""
+   - "&cConnect to our server using the watch"
+   - "&7&m----------------------------------------"
+
+QUEUE:
+   PAUSED:
+      - "&cThe queue for you server is currently paused. Please wait patiently while the server works on getting up"
+      - "&b&lQueue Info"
+      - "&fName: &b%queue%"
+      - "&fPosition: &b%pos%/%size%"
+   JOINED:
+      - "&fYou have joined the queue for &b%queue%&e."
+   LEFT:
+      - "&fYou have left the queue for &b%queue%&e."
+   NOT-IN-QUEUE:
+      - "&cYou are not in a queue."
+   HIGHER-PRIORITY:
+      - "&eSomeone with higher priority has joined your queue."
